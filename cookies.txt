@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.weaboohere.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+weaboohere.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1630625121|ovGyZpWUehGU
+weaboohere.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42
+.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1630625121|ovGyZpWUehGU
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e93131c6f1293fbe390dea76c9b43880ee9941a767850c12af0426e3561dedaba00056e01ff6219d3bd7be8008ee8b8051a5b7
+weaboohere.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
